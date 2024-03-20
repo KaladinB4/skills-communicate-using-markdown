@@ -26,7 +26,7 @@ print('hello, world!')
 ---
 
 
-- [ ] Start Learning Markdown
+- [x] Start Learning Markdown
 - [ ] Get Used to GitFlow
 - [ ] Practice practice practice
 
